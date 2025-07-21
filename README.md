@@ -2,7 +2,7 @@
 
 A fun and interactive web app that fetches and displays random memes from the internet! With just one click, users can get a fresh meme, download it, or even share it directly to Twitter. Built using HTML, CSS, and JavaScript.
 
-![Meme Generator Demo](https://owais41111.github.io/Random-Meme-Generator/) <!-- Replace with actual screenshot if available -->
+![Meme Generator Demo](https://github.com/user-attachments/assets/bc5c8e02-1303-49d9-9159-1cdf793fe578) <!-- Replace with actual screenshot if available -->
 
 ---
 
